@@ -1,12 +1,13 @@
-title:  "github.io 블로그  첫 글"
-excerpt: "github.io 블로그 첫 글 작성해봅니다."
-categories:
-  - Blog
-tags:
-  - Blog
-last_modified_at: 2019-04-13T08:06:00-05:00
----
-글작성하기 위해 마크다운을 공부해서 
-좋은 글들을 작성해 보자.
-이 글의 제목은 {{ page.title }}이고
-마지막 수정 시간은 {{ page.last_modified_at }}이다.
+# github.io 블로그  첫 글
+
+> _"github.io 블로그 첫 글 작성해봅니다."_
+
+__categories:__
+  * Blog
+
+tag:
+  #[Blog](https://lucia2135.github.io/github_Lucia2135.github.io/page)
+
+- [x] last_modified_at: 2022-05-02 T 18:06:00-05:00
+
+![pic](https://cdn.pixabay.com/photo/2022/01/22/16/54/book-6957870_960_720.jpg)
