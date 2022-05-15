@@ -1,6 +1,6 @@
 # github.io 블로그  첫 글
 
-> _"github.io 블로그 첫 글 작성해봅니다."_
+> _" github.io 블로그 첫 글 작성해봅니다. "_
 
 __categories:__
   * Blog
